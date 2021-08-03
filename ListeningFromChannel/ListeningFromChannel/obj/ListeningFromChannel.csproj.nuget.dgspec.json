@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\Channel_Listen\\ListeningFromChannel\\ListeningFromChannel\\ListeningFromChannel.csproj": {}
+    "C:\\Users\\sumuk\\Source\\Repos\\Channel_ListenCLC\\ListeningFromChannel\\ListeningFromChannel\\ListeningFromChannel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\Channel_Listen\\ListeningFromChannel\\ListeningFromChannel\\ListeningFromChannel.csproj": {
+    "C:\\Users\\sumuk\\Source\\Repos\\Channel_ListenCLC\\ListeningFromChannel\\ListeningFromChannel\\ListeningFromChannel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\Channel_Listen\\ListeningFromChannel\\ListeningFromChannel\\ListeningFromChannel.csproj",
+        "projectUniqueName": "C:\\Users\\sumuk\\Source\\Repos\\Channel_ListenCLC\\ListeningFromChannel\\ListeningFromChannel\\ListeningFromChannel.csproj",
         "projectName": "ListeningFromChannel",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\Channel_Listen\\ListeningFromChannel\\ListeningFromChannel\\ListeningFromChannel.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\Channel_Listen\\ListeningFromChannel\\ListeningFromChannel\\obj\\",
+        "projectPath": "C:\\Users\\sumuk\\Source\\Repos\\Channel_ListenCLC\\ListeningFromChannel\\ListeningFromChannel\\ListeningFromChannel.csproj",
+        "packagesPath": "C:\\Users\\sumuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sumuk\\Source\\Repos\\Channel_ListenCLC\\ListeningFromChannel\\ListeningFromChannel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sumuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -47,6 +47,14 @@
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[5.0.7, )"
+            },
+            "System.Collections.Concurrent": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.12, )"
             }
           },
           "imports": [
